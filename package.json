@@ -1,6 +1,26 @@
 {
   "dependencies": {
+    "bootstrap": "^5.1.3",
     "express": "^4.17.3",
+    "jquery": "^3.6.0",
     "python-shell": "^3.0.1"
-  }
+  },
+  "name": "chatbot_com_nodejs_e_python",
+  "description": "<p> O objetivo desse projeto é desenvolver um chatbot simples, com inserção de texto pelo usuário em uma caixa de texto e um botão de enviar, e a IA deve responder o que foi inserido.\r Primeiramente com coisas basicas como \"Oi, tudo bem?\", e posteriormente a ideia seria inserir alguma IA que faça análise de sentimento.</p>",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorconde/chatbot_com_nodejs_e_python.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitorconde/chatbot_com_nodejs_e_python/issues"
+  },
+  "homepage": "https://github.com/vitorconde/chatbot_com_nodejs_e_python#readme"
 }

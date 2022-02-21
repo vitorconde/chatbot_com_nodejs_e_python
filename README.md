@@ -1,4 +1,4 @@
-# Criando chatbot com NodeJs e Python
+# Criando chatbot com NodeJs e Python 🦾
 
 ## Objetivo
 <p> O objetivo desse projeto é desenvolver um chatbot simples, com inserção de texto pelo usuário em uma caixa de texto e um botão de enviar, e a IA deve responder o que foi inserido.
